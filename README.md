@@ -1,2 +1,2 @@
 # SmartContract
-Crowdfunding smart contract developed in Vyper
+CrowdFunding smart contract developed in Vyper
